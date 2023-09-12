@@ -1,4 +1,4 @@
-import 'dart:io';
+
 class Duck{
   void quack(){
     print("Duck: All types of duck can fly");
